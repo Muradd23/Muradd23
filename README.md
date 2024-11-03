@@ -16,8 +16,7 @@ I am a software engineering student. I am expanding my knowledge in both front-e
 
 ## My Skills Include
 
-<h4> Languages </h4>
-###
+<h4> Languages</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -29,16 +28,7 @@ I am a software engineering student. I am expanding my knowledge in both front-e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-###
 <h2 align="left">Check out my Social Media</h2>
-
-###
-
-<div align="right">
-  <img height="0" src="https://media.giphy.com/media/sWY5AWDmppEAiOOktJ/giphy.gif"  />
-</div>
-
-###
 
 <div align="left">  
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -61,5 +51,12 @@ I am a software engineering student. I am expanding my knowledge in both front-e
 ###
 
 <img src="https://raw.githubusercontent.com/Muradd23/Muradd23/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img align="right" height="0" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhvZ2EwOWY3bTF3cXdocHg3b3E4Mnkxam4yYW5nYXhuZHh5YWk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized-large.gif"  />
+
 
 
