@@ -71,8 +71,3 @@
 <img align="right" height="0" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhvZ2EwOWY3bTF3cXdocHg3b3E4Mnkxam4yYW5nYXhuZHh5YWk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized-large.gif"  />
 
 ###
-
-
-
-
-
