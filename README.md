@@ -4,11 +4,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnoxeGJtMG04bTk0MTNscmpwN3IyOHlraWtvNTVnZ3k1b3ZmZXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized.gif"  />
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnoxeGJtMG04bTk0MTNscmpwN3IyOHlraWtvNTVnZ3k1b3ZmZXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized.gif"  />
 
 ###
 
-<p align="left">👨🏼‍💻About me<br><br>I am a computer engineering student 💻,  I am expanding my knowledge in both front-end and back-end development. I like to learn and build something new, productive, innovative and creative.<br><br>🌱 I’m currently learning ...<br>• React.js<br>• Mern<br> I’m looking forward to collaborate on open source projects.<br>✔ Ask me about anything, I am happy to help.<br>Outside tech, I like 🎮 playing videogames, 🎵 listening to music, and 📖 reading  books.<br>📫 Reach out to me at: miguelriosdc@gmail.com</p>
+<p align="right">👨🏼‍💻About me<br><br>I am a computer engineering student 💻,  I am expanding my knowledge in both front-end and back-end development. I like to learn and build something new, productive, innovative and creative.<br><br>🌱 I’m currently learning ...<br>• React.js<br>• Mern<br> I’m looking forward to collaborate on open source projects.<br>✔ Ask me about anything, I am happy to help.<br>Outside tech, I like 🎮 playing videogames, 🎵 listening to music, and 📖 reading  books.<br>📫 Reach out to me at: miguelriosdc@gmail.com</p>
 
 ###
 
