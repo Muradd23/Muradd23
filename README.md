@@ -1,19 +1,13 @@
 <h1 align="center"><b>Hi , I'm Miguel Rios </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+<img align="left" height="" src="https://media.giphy.com/media/sWY5AWDmppEAiOOktJ/giphy.gif"  />
 
-<img align="right" width=300px alt="MeCoding" src="https://media.giphy.com/media/sWY5AWDmppEAiOOktJ/giphy.gif" />
+###
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<p align="left">👨🏼‍💻About me<br><br>I am a computer engineering student 💻,  I am expanding my knowledge in both front-end and back-end development. I like to learn and build something new, productive, innovative and creative.<br><br>🌱 I’m currently learning ...<br>• React.js<br>• Mern<br> I’m looking forward to collaborate on open source projects.<br>✔ Ask me about anything, I am happy to help.<br>Outside tech, I like 🎮 playing videogames, 🎵 listening to music, and 📖 reading  books.<br>📫 Reach out to me at: miguelriosdc@gmail.com</p>
 
-I am a software engineering student. I am expanding my knowledge in both front-end and back-end development.I like to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Rest.js
-  - Mern Stack
-- 👨🏻‍💻👨🏼‍💻I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, I like 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
-  
-- 📫 Reach out to me at: <a href="miguelriosdc@gmail.com">miguelriosdc@gmail.com</a>
+###
+
 
 ## My Skills Include
 
