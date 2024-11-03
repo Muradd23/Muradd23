@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnoxeGJtMG04bTk0MTNscmpwN3IyOHlraWtvNTVnZ3k1b3ZmZXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnoxeGJtMG04bTk0MTNscmpwN3IyOHlraWtvNTVnZ3k1b3ZmZXQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized.gif"  />
 
 ###
 
