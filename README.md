@@ -30,7 +30,7 @@ I am a software engineering student. I am expanding my knowledge in both front-e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 ###
-## Check out my Social Media
+<h2 align="left">Check out my Social Media</h2>
 
 ###
 
