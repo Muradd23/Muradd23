@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm Miguel Rios </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+
 <img align="right" width=300px alt="MeCoding" src="https://media.giphy.com/media/sWY5AWDmppEAiOOktJ/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -52,11 +53,13 @@ I am a software engineering student. I am expanding my knowledge in both front-e
 
 <img src="https://raw.githubusercontent.com/Muradd23/Muradd23/output/snake.svg" alt="Snake animation" />
 
+
+
 ###
 
 <br clear="both">
 
-<img align="right" height="0" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhvZ2EwOWY3bTF3cXdocHg3b3E4Mnkxam4yYW5nYXhuZHh5YWk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized-large.gif"  />
+<img align="right" height="0" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhvZ2EwOWY3bTF3cXdocHg3b3E4Mnkxam4yYW5nYXhuZHh5YWk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWY5AWDmppEAiOOktJ/giphy-downsized-large.gif"  />'''
 
 
 
