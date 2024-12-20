@@ -7,7 +7,7 @@
 
 I am a software engineering student. I am expanding my knowledge in both front-end and back-end development.I like to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Rest.js
+  - Pern Stack
   - Mern Stack
 - 👨🏻‍💻👨🏼‍💻I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
